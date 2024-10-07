@@ -25,3 +25,7 @@ jar {
 test {
     useJUnitPlatform()
 }
+
+wrapper {
+    gradleVersion = '7.0'
+}
